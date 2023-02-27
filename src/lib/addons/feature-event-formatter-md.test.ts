@@ -337,7 +337,6 @@ const testCases: [string, IEvent, string][] = [
                         constraints: [
                             {
                                 value: '4',
-                                values: [],
                                 inverted: false,
                                 operator: operator,
                                 contextName: 'appName',
